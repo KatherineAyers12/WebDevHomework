@@ -1,15 +1,4 @@
-# My First README.md
+# README for Recipe
 ## Katherine Ayers
-This class up to this point has been a very good *reminder* for everything. I already have used atom before but it's nice to have a **refresher** and someone else's suggestions for packages and themes. I've used a tiny bit of  `Markdown` before but have mainly used `JS`. I'm excited for this class. I'm excited to learn
-1. How to code for webpages
-2. how to make lists like these
-    * But also
-  1. make different lists
-  2. and learn more about markdown
-  ---
-
-[This website really helped](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-Screenshot: ![screenshotofdirecory](./images/screenshot1.jpg)
-
-New line of code for pushing practice, everything is going swell
+I guess to start I got my recipe from [this site](http://damndelicious.net/2016/01/07/slow-cooker-tomato-kale-and-quinoa-soup/)
+This project wasn't necessarily difficult for me, it just required sitting down and acutally doing it. I chose my recipe because it's actually something I made that morning, and it seemed to work well for this project. I found it difficult to use certain aspects of code that were required for this project. I didn't end up using strike through, delete, or subscript because there was never a need for this in the recipe. So those didn't get used. I had a difficult time with style, I implemented yet but it never appeared, so perhaps it was incorrect. Overall this project was fun and I had a good time.
