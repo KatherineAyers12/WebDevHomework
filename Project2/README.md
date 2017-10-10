@@ -1,4 +1,7 @@
 # README for Recipe
 ## Katherine Ayers
 I guess to start I got my recipe from [this site](http://damndelicious.net/2016/01/07/slow-cooker-tomato-kale-and-quinoa-soup/)
+## First Part
 This project wasn't necessarily difficult for me, it just required sitting down and acutally doing it. I chose my recipe because it's actually something I made that morning, and it seemed to work well for this project. I found it difficult to use certain aspects of code that were required for this project. I didn't end up using strike through, delete, or subscript because there was never a need for this in the recipe. So those didn't get used. I had a difficult time with style, I implemented yet but it never appeared, so perhaps it was incorrect. Overall this project was fun and I had a good time.
+## Second part
+This part of the project was a step up. We're now to a point where we're learning things I haven't done which is exciting. The first problem I had was pictures. Mine would not load and probably still won't unless I fixed it. It's frustrating because I copied how to do it with the path going to my images and it wasn't working out. Also I couldn't get the abbreviations to work very well, but otherwise the instructions was fine. Then with the form. I had a couple problems with the button, as well as getting the requried flag to show up. But I got it. It doesn't look very pleasing but all the elements are there. I also could not get the home button to work, it takes you to a page but it won't take you back to the index page. Which is frustrating.
