@@ -1,0 +1,33 @@
+body{
+    background: #f6a46d;
+}
+
+.parent-container {
+  padding:1em;
+  font-family: 'EB Garamond',serif;
+  font-weight: 400;
+      font-size: 1.5em;
+      margin: 1em;
+      background-color: #fff;
+      text-indent: 1.5em;
+      line-height: 1.5em;
+}
+.center {
+  text-align: center;
+}
+.text-block{
+  padding:1em;
+  font-family: 'EB Garamond',serif;
+  font-weight: 400;
+      font-size: 1.5em;
+      margin: 1em;
+      background-color: #fff;
+      text-indent: 1.5em;
+      line-height: 1.5em;
+}
+
+
+  header{
+  background-color: #ad1d04;
+  padding: 20px;
+}
