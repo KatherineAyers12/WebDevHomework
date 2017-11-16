@@ -1,33 +1,106 @@
-body{
-    background: #f6a46d;
-}
-
-.parent-container {
-  padding:1em;
-  font-family: 'EB Garamond',serif;
-  font-weight: 400;
-      font-size: 1.5em;
-      margin: 1em;
-      background-color: #fff;
-      text-indent: 1.5em;
-      line-height: 1.5em;
-}
-.center {
-  text-align: center;
-}
-.text-block{
-  padding:1em;
-  font-family: 'EB Garamond',serif;
-  font-weight: 400;
-      font-size: 1.5em;
-      margin: 1em;
-      background-color: #fff;
-      text-indent: 1.5em;
-      line-height: 1.5em;
-}
-
-
   header{
+    font-size: 1.5em;
   background-color: #ad1d04;
   padding: 20px;
+  text-align:center;
+}
+
+.parent-container{
+    background: #f6a46d;
+}
+.parent-container-02{
+  width: 75%;
+ margin: 1em auto;
+ padding: 1em;
+ text-align: center;
+ border: 10px solid #fff;
+   background-color: #5857BC;
+ color: #fff;
+ font-size: 1.25em;
+}
+.menu-item{
+  display: inline-block;
+  margin: auto;
+  padding: 1em;
+  min-width: 100px;
+  text-align: center;
+  color: #fff;
+  background-color:#f6a46d;
+
+}
+.menu-item:hover {
+  background-color:gold;
+  color: #333;
+}
+.dropdown{
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  border: 1px solid #000;
+  margin:0;
+  color: #fff;
+  background-color:#f6a46d;
+  z-index:1
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown-item{
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 1em;
+}
+.dropdown-item:hover{
+  color: #333;
+  background-color:gold;
+}
+
+.text-block{
+  z-index: 9;
+  font-family: 'EB Garamond',serif;
+    font-weight: 400;
+      font-size: 1.5em;
+        margin: 1em;
+}
+    .inner-box {
+      z-index:8;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 2em;
+      border-width: 1em;
+      border-style: double;
+      background-color: #fff;
+      text-indent: 1.5em;
+}
+  header{
+    z-index: 10;
+  background-color: #ad1d04;
+  padding: 20px;
+}
+ .parent-container{
+    background: #f6a46d;
+}
+.absolute-element{
+position: relative;
+top: 50px;
+left: 10px;
+max-width: 300px;
+font-size: 1.5em;
+text-align: center;
+color: #000;
+background-color:#fff;
+z-index:-2;
+}
+.site-picture{
+  position:absolute;
+  top: 50px;
+  left:50px;
+}
+.book-image{
+    z-index: 7;
+  bottom:30px;
+  text-align: center;
 }
