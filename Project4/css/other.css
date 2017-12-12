@@ -40,20 +40,20 @@ header{
 }
 @media (min-width: 320px) {
   .inner-box-three {
-    width: 100%;
+    width: 120%;
   }
   .inner-box-one {
-    width: 100%;
+    width: 95%;
   }
   .inner-box-two {
-    width: 100%;
+    width: 105%;
   }
 @media (min-width: 600px) {
  .inner-box-three {
-   width: 100%;
+   width: 106%;
  }
  .inner-box-one {
-   width: 100%;
+   width: 95%;
  }
  .inner-box-two {
    width: 100%;
